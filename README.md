@@ -29,3 +29,6 @@
  ![Snake animation](https://github.com/eukiba/eukiba/blob/output/github-contribution-grid-snake.svg)
 
 <img src=https://github.com/eukiba/img/blob/main/mario.gif >
+ 
+#### Gostou do que viu aceito doações qualquer valor será muito bem vindo 
+<a href="https://nubank.com.br/pagar/2l63t/D4l4uSH2kL" target="_blank"><img src="https://github.com/eukiba/img/blob/main/Qrcode.jpg" width="200" ></a>
