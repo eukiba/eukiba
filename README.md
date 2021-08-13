@@ -5,7 +5,7 @@
 ## Tenho 26 anos 
   <img align="right" alt="Cat.gif" src="https://github.com/eukiba/img/blob/main/Pedido.gif" width="190" />
 
-## Interessado em me tornar um futuro Desenvolvedor de Jogos
+## Interessado em me tornar um futuro Game Dev
 <div style="display: inline_block">
 <h3> No momento aprendendo tudo sobre : JavaScript, Java, HTML5/CSS3, SGBDS, Logica de programaçao... e tudo sobre o mundo Dev  </h3>
   <img alt="Eukiba-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
