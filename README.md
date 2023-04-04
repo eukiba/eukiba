@@ -2,12 +2,12 @@
 
 # Olá eu sou o Renato Nuno 
 
-## Tenho 26 anos 
+## Tenho 28 anos 
   <img align="right" alt="Cat.gif" src="https://github.com/eukiba/img/blob/main/Pedido.gif" width="190" />
 
 ## Interessado em me tornar um futuro Game Dev
 <div style="display: inline_block">
-<h3> No momento aprendendo tudo sobre : JavaScript, Java, HTML5/CSS3, SGBDS, Logica de programaçao... e tudo sobre o mundo Dev  </h3>
+<h3> Cursando Sistemas de informação UEMG : JavaScript, Java, HTML5/CSS3, SGBDS, Logica de programaçao... e tudo sobre o mundo Dev  </h3>
   <img alt="Eukiba-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Eukiba-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img alt="Eukiba-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
