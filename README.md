@@ -14,12 +14,12 @@
   <img alt="Eukiba-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Eukiba-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Eukiba-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
-  <img alt="Eukiba-PostgreSQl" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
-  <img alt="Eukiba-SQl" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img alt="Eukiba-" height="30" width="40" src="">
+  <img alt="Eukiba-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img alt="Eukiba-Vs.code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img alt="Eukiba-Vs.code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
-  <img alt="Eukiba-Vs.code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
-  <img alt="Eukiba-Vs.code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
+  <img alt="Eukiba-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
+  <img alt="Eukiba-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img alt="Eukiba-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
 
 ### Mídia sociais mais ativas  <a href="https://www.linkedin.com/in/renato-nuno-itba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/renatiitba" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
