@@ -17,6 +17,7 @@
   <img alt="Eukiba-PostgreSQl" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
   <img alt="Eukiba-SQl" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img alt="Eukiba-Vs.code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img alt="Eukiba-Vs.code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
 </div>
 
 ### Mídia sociais mais ativas  <a href="https://www.linkedin.com/in/renato-nuno-itba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/renatiitba" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
